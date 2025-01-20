@@ -69,7 +69,3 @@ Both algorithms explore the state space of possible chessboard configurations, a
 2. Ensure that Python 3.x is installed.
 3. Run the provided Python script to see the BFS and A* solutions.
 
-Example usage:
-
-```bash
-python rearrange_letters.py
