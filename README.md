@@ -1,4 +1,4 @@
-# AI Assignment: Rearranging Letters on a Chessboard
+# AI Search Algorithms: Rearranging Letters on a Chessboard
 
 ## Overview
 This assignment involves rearranging letters on a chessboard to reach a specific configuration using **breadth-first search (BFS)** and **A\* algorithms**. The main objective is to explore all possible moves to reach a goal state by manipulating the letters on the chessboard.
